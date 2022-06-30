@@ -1,0 +1,43 @@
+
+/* Add your profile image here */ 
+.Photo{
+    background-image: url('https://media-exp2.licdn.com/dms/image/C4D03AQFhqwO2JfzZaQ/profile-displayphoto-shrink_800_800/0/1648558551088?e=1661990400&v=beta&t=fn3bJDHvECJ5vaTdfX9vJZqbNAJCrGrxkabyzpyPJ_A');
+}
+/* Projects Photo */
+.project1{
+    background-image: url('https://user-images.githubusercontent.com/97446064/165774716-5d9bb15d-d271-4281-a0c2-0925f15b098a.png');
+    cursor: none;    
+}
+.project2{
+    background-image: url('https://user-images.githubusercontent.com/97446064/165774766-986eb88f-d046-4e16-b55e-e281ab5ccf00.png');
+    cursor: none;
+}
+.project3{
+    background-image: url('https://user-images.githubusercontent.com/97446064/165774785-d68d36fd-2941-4fd0-8090-fe4665eceb17.png');
+    cursor: none;
+}
+.project4{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');
+    cursor: none;
+}
+.project5{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Project+five');
+    cursor: none;
+}
+.project6{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Project+six');
+    cursor: none;
+}
+/* Miscelaneous Activities photo */
+.misc1{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+one');
+    cursor: none;
+}
+.misc2{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+two');
+    cursor: none;
+}
+.misc3{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+three');
+    cursor: none;
+}
